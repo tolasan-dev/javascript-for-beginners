@@ -1,5 +1,19 @@
 ## Hello guys I'm San Tola is members for contributor for provider docs'java easy to self-learning
-## Get Started with JavaScript in 2 Hours 🔥
+
+## ⭐ Rate & Star This Project
+
+If you like this project, please consider giving it a **star** ⭐ on GitHub!  
+Your support helps the project grow and motivates me to improve it even more.
+
+### 💬 Feedback Welcome
+Have suggestions or found issues?  
+Feel free to open an **issue** or submit a **pull request**.
+
+### 🙌 Thank You!
+Your star means a lot — thanks for supporting this project!
+
+## Get Started with JavaScript 
+
 
 Welcome my friends to this **JavaScript For Beginners** course that I am super excited to have live on the [YouTube channel](https://www.youtube.com/smoljames)!
 
